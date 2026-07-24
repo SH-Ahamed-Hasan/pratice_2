@@ -20,6 +20,7 @@ public class FirstRestExample {
         Map<String, String> map = new HashMap<>();
         map.put("Message", "Hello");
         map.put("Mesage1", "Abinaya");
+        System.out.println("mama mama va mamagit add ");
         return map;
     }
 }
